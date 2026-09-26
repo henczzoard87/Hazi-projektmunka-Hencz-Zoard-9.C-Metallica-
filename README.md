@@ -1,1 +1,0 @@
-# Hazi-projektmunka-Hencz-Zoard-9.C-Metallica-
