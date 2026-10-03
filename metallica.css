@@ -1,0 +1,45 @@
+body {
+     background-color: lightyellow; 
+
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    color: darkgreen;
+    text-align: justify;
+
+}
+
+img {
+    height: 250px;
+}
+
+.piros-kozepre {
+    color: red;
+    text-align: center;
+
+}
+
+.kiemelt {
+    color: darkgreen;
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.kepkozepre {
+    text-align: center;
+    height: 250px;
+
+}
+
+#spotify-image {
+    height: 250px;
+    text-align: center;
+}
