@@ -1,5 +1,6 @@
 table {
     border-collapse: collapse;
+    font-size: 20px;
 }
 
 th {
@@ -98,4 +99,19 @@ td {
 
 body {
     background-color: lightyellow ;
+}
+
+.keptagokrol {
+    display: block;
+    height: 300px;
+    width: auto;
+}
+
+.kep {
+    width: 400px;
+    background-color: lightblue;
+    padding: 8px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
 }
