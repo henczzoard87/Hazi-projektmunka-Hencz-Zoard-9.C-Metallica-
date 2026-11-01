@@ -1,5 +1,5 @@
 body {
-     background-color: lightyellow; 
+     background-image: url(https://dynamicmedia.livenationinternational.com/t/x/s/3dfccdaf-4426-4495-9834-3c4b1212eee6.jpg?format=webp&width=3840&quality=75);
 
 }
 
@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
-    color: darkgreen;
+    color: white;
     text-align: justify;
 
 }
@@ -23,12 +23,11 @@ img {
 
 .piros-kozepre {
     color: red;
-    text-align: center;
 
 }
 
 .kiemelt {
-    color: darkgreen;
+    color: white;
     text-align: justify;
     font-weight: bold;
     font-style: italic;
@@ -36,12 +35,9 @@ img {
 }
 
 .kepkozepre {
-    text-align: center;
-    height: 250px;
-
+    height: 125px;
 }
 
 #spotify-image {
-    height: 250px;
-    text-align: center;
+    height: 125px;
 }

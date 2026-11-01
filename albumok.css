@@ -73,7 +73,7 @@ td {
 .margin-0-kiemelt {
     margin-top: 0;
     margin-bottom: 0;
-    color: darkgreen;
+    color: white;
     text-align: justify;
     font-weight: bold;
     font-style: italic;
@@ -82,7 +82,7 @@ td {
 
 .margin-bottom-kiemelt {
     margin-bottom: auto;
-    color: darkgreen;
+    color: white;
     text-align: justify;
     font-weight: bold;
     font-style: italic;
@@ -90,7 +90,7 @@ td {
 }
 
 .kiemelt {
-    color: darkgreen;
+    color: white;
     text-align: justify;
     font-weight: bold;
     font-style: italic;
@@ -98,7 +98,7 @@ td {
 }
 
 body {
-    background-color: lightyellow ;
+    background-image: url(hatterfekete.jpg);
 }
 
 .keptagokrol {
@@ -109,9 +109,12 @@ body {
 
 .kep {
     width: 400px;
-    background-color: lightblue;
+    background-color: grey;
     padding: 8px 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
 
+.feher {
+    color: white;
 }
