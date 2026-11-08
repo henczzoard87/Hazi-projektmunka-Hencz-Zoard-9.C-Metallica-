@@ -1,5 +1,5 @@
 body {
-     background-image: url(https://dynamicmedia.livenationinternational.com/t/x/s/3dfccdaf-4426-4495-9834-3c4b1212eee6.jpg?format=webp&width=3840&quality=75);
+     background-color: black;
 
 }
 
@@ -14,21 +14,24 @@ h1 {
 p {
     color: white;
     text-align: justify;
-
 }
 
 img {
     height: 250px;
 }
 
-.piros-kozepre {
+.piros {
     color: red;
 
 }
 
+.piros-kozepre {
+    color: red;
+    text-align: center;
+}
+
 .kiemelt {
     color: white;
-    text-align: justify;
     font-weight: bold;
     font-style: italic;
     font-size: 20px;
@@ -40,4 +43,34 @@ img {
 
 #spotify-image {
     height: 125px;
+}
+
+.balra {
+    float: left;
+    margin-right: 20px;
+}
+
+.jobbra {
+    float: right;
+    margin-left: 20px;
+}
+
+.alsomargo {
+    margin-bottom: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+.right {
+    text-align: right;
+}
+
+
+.kiemelt2 {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
 }

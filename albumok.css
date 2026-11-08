@@ -13,6 +13,7 @@ th {
 td {
     border: 2px solid black;
     text-align: center;
+    color: white;
 }
 
 .Kill-Em-All {
@@ -102,9 +103,9 @@ body {
 }
 
 .keptagokrol {
-    display: block;
     height: 300px;
-    width: auto;
+    margin-top: 15px;
+    border: 3px solid black;
 }
 
 .kep {
@@ -113,8 +114,26 @@ body {
     padding: 8px 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: center;
+    border: 5px solid black
 }
 
 .feher {
     color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+b {
+    text-decoration: underline;
+}
+
+
+.feher-kozep {
+    color: white;
+    text-align: center;
 }
