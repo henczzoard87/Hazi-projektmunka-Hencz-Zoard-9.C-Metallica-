@@ -1,6 +1,6 @@
 body {
-     background-color: black;
-
+     background-image: url(https://i.pinimg.com/1200x/1b/e9/ff/1be9ff55992d6fb4699c20ccaef1fafe.jpg);
+     background-size: cover;
 }
 
 h1 {
@@ -73,4 +73,8 @@ img {
     font-weight: bold;
     font-style: italic;
     font-size: 25px;
+}
+
+div div {
+    padding: 50px;
 }
