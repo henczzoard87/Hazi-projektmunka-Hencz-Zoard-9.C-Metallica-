@@ -22,12 +22,13 @@ img {
 
 .piros {
     color: red;
-
+    margin-top: 100px;
 }
 
 .piros-kozepre {
     color: red;
     text-align: center;
+    margin-bottom: 50px;
 }
 
 .kiemelt {
@@ -37,7 +38,7 @@ img {
     font-size: 20px;
 }
 
-.kepkozepre {
+.gitar {
     height: 125px;
 }
 
@@ -47,12 +48,12 @@ img {
 
 .balra {
     float: left;
-    margin-right: 20px;
+    padding: 20px;
 }
 
 .jobbra {
     float: right;
-    margin-left: 20px;
+    padding-left: 20px;
 }
 
 .alsomargo {
